@@ -2,6 +2,8 @@
 
 ![image](src/main/resources/flaggbanner.png)
 
+Dette spillet er min besvarelse på en semesteroppgave i emnet [objektorientert programmering](https://www.uib.no/emne/INF101) ved Universitetet i Bergen.
+
 ## Hvordan spille spillet
 
 Spillet kjøres gjennom Main.java.
