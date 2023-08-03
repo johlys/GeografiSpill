@@ -1,4 +1,4 @@
-# Geografi spill
+# Geografi-spill
 
 ![image](src/main/resources/flaggbanner.png)
 
